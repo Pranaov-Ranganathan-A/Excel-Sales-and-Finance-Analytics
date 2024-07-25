@@ -31,7 +31,7 @@
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-## Technical Skills: Refined understanding of Sales & Finance Reports
+## Technical Skills: ### Refined understanding of Sales & Finance Reports
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
